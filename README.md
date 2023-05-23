@@ -222,7 +222,7 @@ color: #000000;
 ```
 
 ## OUTPUT:
-![output](./out91.png)
+![output](./Out91.png)
 ![output](./out92.png)
 ![output](./out93.png)
 
